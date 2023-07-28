@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_subject_padding_end">40dp</dimen>
+    <dimen name="email_list_item_header_subject_spacing">12dp</dimen>
+    <dimen name="email_list_item_subject_body_spacing">8dp</dimen>
+</resources>

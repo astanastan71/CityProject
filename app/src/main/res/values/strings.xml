@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">CityProject</string>
+    <string-array name="categories">
+        <item>Cultural</item>
+        <item>Public</item>
+        <item>Restaurants</item>
+        <item>Shopping Centers</item>
+        <item>No Category</item>
+    </string-array>
+    <string name="place_name_1">Kazakh Heritage House</string>
+    <string name="place_address1">789 Cultural Avenue</string>
+    <string name="place_description1">The striking architecture of Kazakh Heritage House beautifully fuses modern design with traditional Kazakh elements, creating a captivating facade that instantly captures the attention of passersby. The centers design is a tribute to the ancient nomadic traditions and architectural marvels that have defined the Kazakh culture for centuries.
+
+Upon entering Kazakh Heritage House, visitors are greeted by a mesmerizing exhibition of Kazakh craftsmanship, including intricate textiles, ornate rugs, and delicate handcrafted jewelry. The center serves as a showcase of the artistic talent and artisanal skills that have been passed down through generations.</string>
+    <string name="place_address2">456 Brushstroke Street.</string>
+    <string name="place_description2">Astana Art Hub is a vibrant and inspiring art gallery situated along the renowned 456 Brushstroke Street in Almaty City, Kazakhstan. As a premier destination for art enthusiasts and creative minds, this dynamic hub celebrates the diverse expressions of art and fosters a thriving artistic community in the heart of the city.
+The exterior of Astana Art Hub reflects its contemporary approach to art, with a sleek and modern facade that complements the artistic energy it houses within. The gallerys prominent location makes it an inviting landmark for both locals and international visitors alike.</string>
+    <string name="place_address3">789 Nomad Road</string>
+    <string name="place_name_4">City Embankment - Riverfront Promenade</string>
+    <string name="place_address4">Riverside Avenue</string>
+    <string name="place_description4">As visitors approach the Riverfront Promenade, they are greeted by the soothing sound of gently flowing water and the refreshing breeze that carries the rivers gentle mist. The embankments carefully planned design features paved pathways lined with vibrant flowerbeds, neatly manicured lawns, and shady trees, creating a serene and inviting atmosphere.
+
+The promenade offers breathtaking views of the river and the city skyline, making it an ideal spot for leisurely walks, jogs, or a peaceful afternoon of relaxation. Benches and seating areas are strategically placed along the embankment, allowing visitors to bask in the tranquility and savor the panoramic vistas.</string>
+    <string name="place_name_5">City Leisure Center - Harmony Haven</string>
+    <string name="place_address5">789 Oasis Boulevard</string>
+    <string name="place_description5">For families seeking quality time together, the leisure center offers an expansive indoor playground, complete with climbing structures, slides, and interactive play areas, ensuring a fun-filled experience for children of all ages.
+
+Harmony Haven takes pride in nurturing creativity and artistic expression. The center hosts art workshops, dance classes, music recitals, and theater performances, encouraging aspiring artists to hone their talents and share their passion with the community.</string>
+    <string name="place_name6">The Garden Bistro</string>
+    <string name="place_address6">456 Park Avenue, Pavlodar City, Kazakhstan</string>
+    <string name="place_description6">Welcome to The Garden Bistro, a hidden gem nestled in the heart of Pavlodar City, Kazakhstan. Our restaurant offers a tranquil escape from the bustling city life, where you can indulge in exquisite dining amidst the beauty of nature.
+As you enter The Garden Bistro, youll be greeted by a mesmerizing garden oasis, filled with colorful flowers, gently swaying trees, and the soft murmur of a nearby stream. The ambiance is designed to transport you to a peaceful retreat, providing the perfect backdrop for a delightful culinary experience.</string>
+    <string name="place_name7"> Silk Road Spice House</string>
+    <string name="place_address7">23 Serene Grove</string>
+    <string name="place_description7">Silk Road Spice House, located at 23 Serene Grove in Pavlodar City, Kazakhstan, offers a captivating culinary journey along the historic Silk Road. Nestled amidst the natural beauty of Pavlodar City, the restaurant celebrates the flavors, aromas, and cultural diversity of the ancient trade route.
+The picturesque surroundings of Serene Grove set the stage for an enchanting dining experience. Guests are welcomed by warm earthy tones and handcrafted wooden furnishings, creating a cozy and inviting atmosphere. Large windows provide glimpses of the lush trees and colorful blooms, adding to the restaurants charm.</string>
+    <string name="place_name8">Serenity Gardens</string>
+    <string name="place_address8">23 Elm Avenue</string>
+    <string name="place_description8">Serenity Gardens is a picturesque public park situated at 23 Elm Avenue in the heart of Pavlodar City, Kazakhstan. As an enchanting green haven, the park provides a serene escape from the citys bustling streets, offering a peaceful retreat for both locals and visitors.
+Upon entering Serenity Gardens, visitors are welcomed by a lush landscape of well-maintained lawns, vibrant flowerbeds, and majestic trees, providing shade and serenity. The parks thoughtful layout incorporates winding pathways, inviting benches, and charming gazebos, seamlessly blending natural beauty with thoughtful architecture.</string>
+    <string name="place_name9">Public Library - Harmony Haven</string>
+    <string name="place_address9">789 Birch Street</string>
+    <string name="place_description9">Harmony Haven is a cherished public library located at 789 Birch Street in Pavlodar City, Kazakhstan. As a beacon of knowledge and a sanctuary for avid readers, the library is an integral part of the citys cultural landscape, welcoming individuals of all ages to explore the world of literature and learning.
+Stepping into Harmony Haven, visitors are greeted by an inviting and tranquil atmosphere. The librarys architecture combines modern design with touches of traditional Kazakh elements, creating an aesthetically pleasing space that fosters a sense of warmth and intellectual curiosity.</string>
+    <string name="place_name10">Serenity Mall</string>
+    <string name="place_address10">123 Oak Avenue</string>
+    <string name="place_description10">Serenity Mall is a premier shopping center located at 123 Oak Avenue in the heart of Pavlodar City, Kazakhstan. This bustling retail destination serves as a hub for shoppers, offering a delightful and diverse shopping experience that caters to the citys residents and visitors alike.
+Upon entering Serenity Mall, shoppers are welcomed by an elegant and modern interior, adorned with stylish architecture and sophisticated decor. The malls design seamlessly integrates contemporary elements with Kazakh cultural motifs, creating a unique ambiance that reflects the citys rich heritage.</string>
+    <string name="place_name11">Harmony Plaza</string>
+    <string name="place_address11">456 Maple Street</string>
+    <string name="place_description11">Harmony Plaza is an all-encompassing shopping center located at 456 Maple Street in the heart of Pavlodar City, Kazakhstan. As a dynamic retail and leisure destination, this bustling mall offers an unparalleled shopping experience that caters to the diverse tastes and desires of the citys residents and visitors.
+Upon arrival at Harmony Plaza, shoppers are greeted by a modern and inviting architectural design, characterized by sleek lines and an open-air concept that harmoniously blends with the surrounding urban landscape. The plazas prominent location and impressive facade make it a vibrant landmark in the city.</string>
+    <string name="place_name_2">Astana Art Hub</string>
+    <string name="place_name_3">Ethnographic Museum - Kazakh Heritage Village</string>
+    <string name="place_description3">The entrance to Kazakh Heritage Village is marked by traditional Kazakh arches and ornate carvings, setting the tone for an authentic and enlightening experience that awaits within. The museums picturesque location complements the essence of nomadic life, surrounded by vast open landscapes and dotted with yurts that showcase the traditional dwellings of the Kazakh nomads.
+
+Inside Kazakh Heritage Village, visitors are transported back in time as they explore meticulously recreated scenes from various periods in Kazakh history. Life-size dioramas depict the daily activities of nomadic tribes, artisans crafting intricate textiles, and musicians playing traditional instruments, capturing the essence of Kazakh culture in exquisite detail.</string>
+    <string name="backButton">Back button</string>
+    <string name="culturalItem">Cultural</string>
+    <string name="publicItem">Public</string>
+    <string name="restarauntItem">Restaraunts</string>
+    <string name="shopsMallItem">Shopping malls</string>
+</resources>
